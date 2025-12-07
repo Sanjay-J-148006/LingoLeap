@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LingoLeap</string>
+    <string name="default_email">user@example.com</string>
+    <string name="default_password">password123</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736686646744",
+    "project_id": "lingoleap-97b26",
+    "storage_bucket": "lingoleap-97b26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736686646744:android:9dbd728a52e5e8c4fd3ead",
+        "android_client_info": {
+          "package_name": "com.example.lingoleap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrI8dhpIRf56l-NGWM6YwrTmHqGAmksao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

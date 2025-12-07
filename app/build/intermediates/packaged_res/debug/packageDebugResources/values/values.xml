@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_orange">#FF6D00</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="md3_primary">#6750A4</color>
+    <color name="primary_blue">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">LingoLeap</string>
+    <string name="default_email">user@example.com</string>
+    <string name="default_password">password123</string>
+    <style name="Base.Theme.LingoLeap" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#4CAF50</item> 
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFC107</item> 
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.LingoLeap" parent="Base.Theme.LingoLeap"/>
+</resources>
